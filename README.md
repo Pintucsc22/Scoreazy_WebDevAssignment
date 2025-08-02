@@ -10,4 +10,5 @@ This is a responsive landing page built for Scoreazy’s "Confidence Building fo
 - Fun cartoon illustrations for student appeal
 
 ## 📸 Preview
-<img src="assets/hero-kid.svg" width="300px">
+<img width="1286" height="1035" alt="image" src="https://github.com/user-attachments/assets/985e0992-dc1f-40e2-a635-21fafd2bf886" />
+
